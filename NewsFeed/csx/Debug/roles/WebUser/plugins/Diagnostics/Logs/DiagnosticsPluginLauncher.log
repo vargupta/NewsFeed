@@ -1,0 +1,18 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Emulator config file set to c:\users\vargupta\documents\visual studio 2013\Projects\NewsFeed\NewsFeed\csx\Debug\roles\WebUser\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] DiagnosticsStoreRootPath set to: C:\Users\vargupta\AppData\Local\dftmp\Resources\a5418a35-fc4d-4817-9869-0ec885a7c8e8
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Loading config file: c:\users\vargupta\documents\visual studio 2013\Projects\NewsFeed\NewsFeed\csx\Debug\roles\WebUser\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Emulator config file set to c:\users\vargupta\documents\visual studio 2013\Projects\NewsFeed\NewsFeed\csx\Debug\roles\WebUser\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:35:46 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:36:57 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [12/5/2016 9:36:57 AM] DiagnosticPlugin exited with code 0
